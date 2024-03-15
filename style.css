@@ -1,0 +1,20 @@
+.row{
+    display: flex;
+    flex-direction: column;
+    border:1px solid black;
+    width: 700px;
+    border-radius: 10px;
+
+}
+
+.row > input{
+    margin: 20px auto;
+    width: 400px;
+    padding:10px;
+    border-radius: 10px;
+}
+
+/* body{
+background-image: url('images/download\ \(1\).jpg');
+background-repeat: no-repeat;
+} */
